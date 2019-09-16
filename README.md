@@ -3,6 +3,8 @@ A simple image viewer for art warmups and references.
 
 Peeper is a minimalist image viewer designed specially for artists to help with quick warmups, gesture drawing, and general references.
 
+To start, drag and drop an image, folder, or multiple images into the application.
+
 Overview:
 
 \*  Automatic timer for timed gesture drawings
