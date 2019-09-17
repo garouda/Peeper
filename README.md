@@ -9,7 +9,7 @@ To start, drag and drop an image, folder, .zip, or multiple images into the appl
 
 Overview:
 
-\*  Automatic timer for timed gesture drawings
+\*  Adjustable timer for timed gesture drawings
   
 \*  Optional 3 second countdown (with audio)
   
