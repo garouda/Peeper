@@ -21,4 +21,4 @@ Overview:
   
 \*  Smooth high-quality zooming and panning
 
-\*  Blurred backgrounds to emphasize the colour of the image
+\*  Blurred background for aesthetics
